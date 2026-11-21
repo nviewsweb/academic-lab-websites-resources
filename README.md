@@ -21,6 +21,16 @@ Maintained by **Nviewsweb Digital Solutions**, this repository shares practical 
 - Domain and website security checklist
 - Website migration and maintenance guides
 
+### Free Research Lab Website Checklist
+
+**Is your research lab website helping people discover your work?**
+
+Use our free 40-point checklist to evaluate your lab website's content, academic SEO, AI discoverability, accessibility, security and ongoing maintenance.
+
+**[View the Research Lab Website Checklist](./lab-website-checklist.md)**
+
+Designed for professors, principal investigators, postdoctoral researchers and research administrators.
+
 ## Who is this for?
 
 Professors, principal investigators, researchers, academic web developers, and research administrators.
