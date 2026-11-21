@@ -1,5 +1,8 @@
 # Academic Lab Website — Resources for Researchers
 
+<img width="1600" height="640" alt="academic_lab_website_github_readme_banner" src="https://github.com/user-attachments/assets/ef06e8fa-3e78-4594-a266-8dc249367077" />
+
+
 🔬 **Built for people. Structured for machines. Managed for researchers.**
 
 Academic Lab Website helps research groups build and maintain professional websites that communicate their work clearly to fellow researchers, students, collaborators, search engines and AI-powered discovery systems.
